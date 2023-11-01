@@ -1,3 +1,3 @@
 # springmvc
 스프링 MVC 1편 
-1. 스프링 MVC 기본 기능
+Sec 6. 스프링 MVC 기본 기능
